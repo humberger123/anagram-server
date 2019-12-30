@@ -1,0 +1,9 @@
+{
+	"listen_address"         : "0.0.0.0",
+	"listen_port"            : 8080,
+	"max_allowed_word_length": 15,
+
+	"dictionary_txt"         : "./dict2.txt",
+	"minimum_word_length"    : 3,
+	"remove_duplicates"      : "this is a placeholder, it does not do anything yet"
+}
